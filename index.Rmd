@@ -1,0 +1,22 @@
+---
+title: "_Khaista_Afghans_"
+image: "images/1.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
+  - label: '<i class="fa-brands fa-tiktok fa-beat-fade" style="color: #000000;"></i>'
+    url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
+output:
+  postcards::solana
+site: distill::distill_website
+---
+ 
+## Introduction
+
+The sound of the beads and chime when an afghan is passing by grasps your attention and revolves heads of people.The updating of our fashion just brings in more admiring beauty.Never has an afghan piece  of cloth let down anyone which make our attractive fashion even more famed.your beauty relies on our clothing.our fashion brightens your beauty.
+
+    
