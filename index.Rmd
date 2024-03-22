@@ -17,6 +17,7 @@ site: distill::distill_website
  
 ## Introduction
 
-The sound of the beads and chime when an afghan is passing by grasps your attention and revolves heads of people.The updating of our fashion just brings in more admiring beauty.Never has an afghan piece  of cloth let down anyone which make our attractive fashion even more famed.your beauty relies on our clothing.our fashion brightens your beauty.
+The sound of the beads and chime when an afghan is passing by grasps your attention and revolves heads of people.The updating of our fashion just brings in more admiring beauty.Never has an afghan piece  of cloth let down anyone which make our attractive fashion even more famed.your beauty relies on our clothing.our fashion brightens your beauty. 
+`r emo::ji("heart")` 
 
     
