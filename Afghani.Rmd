@@ -8,6 +8,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![title of image](images/pink.jpg){width=
 ![title of image](images/red.jpg)
-
-
-
+![title of image](images/bride.jpg)
+![title of image](images/gold.jpg)
+These captivating brides and their sartorial choices are truly enchanting.Each gown, meticulously crafted, tells a unique story of elegance and tradition. From the intricate lacework to the delicate beadwork, every detail is a testament to the artistry and passion of the designers. The brides, glowing with happiness, radiate beauty and confidence as they walk down the aisle, their dresses flowing gracefully around them.
